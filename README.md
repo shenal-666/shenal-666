@@ -1,8 +1,2 @@
-- 👋 Hi, I’m @Cronus
-- 👀 I’m interested in developing software
-- 🌱 I’m currently learning software enginering
-
-<!---
-shenal-666/shenal-666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<H2>Hi! I am The Cronus, who want to be Full-Stack Developer & Forex Trader</H2>
+<H4>Hobby : Traveling Gaming, Content Creation</H4>
