@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shenal-666
+- 👋 Hi, I’m @Cronus
 - 👀 I’m interested in developing software
 - 🌱 I’m currently learning software enginering
 
